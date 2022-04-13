@@ -1,0 +1,75 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom, #023535,#015958);
+    background-attachment: fixed;
+}
+
+header{
+    text-align: center;
+    color: white;
+    
+}
+
+#campos {
+    margin: auto;
+    background-color: #008f8d7e;
+    width: 800px;
+    height: 300px;
+    padding: 0px;
+    border-radius: 5px;
+}
+
+#senha {
+    margin:10px 10px 4px 10px ;
+    color: white;
+    text-align: center;
+    padding: 5px 0px 0px 0px;
+    font-weight: bold;
+    
+}
+
+#user {
+    margin:10px 10px 4px 10px ;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 50px 0px 0px 0px;
+    font-weight: bold;
+   
+}
+input{
+    margin-left: 31%;
+    width: 300px;
+    box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.267);
+}
+#botao {
+    display: block;
+    background-color: #0FC2C0;
+    color: white;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 5px;
+    width: 113px;
+    height: 36px;
+    margin: 40px 36px 10px 355px;
+    padding: 1px px 1px 1px;
+}
+footer{
+    text-align: center;
+    background-color: #015958;
+    margin: 30px -7px 0px -7px;
+    padding: 5px;
+    color: white;   
+}
+
+footer > a{
+    text-decoration: none;
+    color: #0FC2C0;
+    font-weight: bolder;
+
+}
+footer > a:hover{
+    text-decoration: underline;
+    
+}   
+   
